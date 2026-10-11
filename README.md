@@ -13,6 +13,12 @@
 - Variables & Data Types
 - Input & Output
 - Operators in C
+- Operator Precedence and Associativity
+- Expressions in C
+- Decision-Making Statements (if, if-else, else-if ladder)
+- Nested if Statements
+- switch Statement
+- break and continue Statements
 - Basic C Programming Problems
 - Debugging & Logical Thinking
 
@@ -20,7 +26,7 @@
 
 ---
 
-## 📘 Unit 2 — Control Structures and Functions in C Programming
+## 📘 Unit 2 — Functions in C Programming
 
 ### Topics Covered
 
