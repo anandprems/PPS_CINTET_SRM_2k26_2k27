@@ -36,6 +36,7 @@
 - Parameters & Arguments
 - Types of Functions Based on Parameters and Return Values
 - Pass by Value
+- Basic Pointers
 - Pass by Address
 - Basic and Intermediate C Programming Problems
 - Logical Thinking & Problem-Solving Practice
